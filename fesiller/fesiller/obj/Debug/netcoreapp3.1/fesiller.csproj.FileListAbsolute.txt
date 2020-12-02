@@ -1,0 +1,11 @@
+C:\Users\EldarA\source\repos\fesiller\fesiller\bin\Debug\netcoreapp3.1\fesiller.exe
+C:\Users\EldarA\source\repos\fesiller\fesiller\bin\Debug\netcoreapp3.1\fesiller.deps.json
+C:\Users\EldarA\source\repos\fesiller\fesiller\bin\Debug\netcoreapp3.1\fesiller.runtimeconfig.json
+C:\Users\EldarA\source\repos\fesiller\fesiller\bin\Debug\netcoreapp3.1\fesiller.runtimeconfig.dev.json
+C:\Users\EldarA\source\repos\fesiller\fesiller\bin\Debug\netcoreapp3.1\fesiller.dll
+C:\Users\EldarA\source\repos\fesiller\fesiller\bin\Debug\netcoreapp3.1\fesiller.pdb
+C:\Users\EldarA\source\repos\fesiller\fesiller\obj\Debug\netcoreapp3.1\fesiller.csprojAssemblyReference.cache
+C:\Users\EldarA\source\repos\fesiller\fesiller\obj\Debug\netcoreapp3.1\fesiller.AssemblyInfoInputs.cache
+C:\Users\EldarA\source\repos\fesiller\fesiller\obj\Debug\netcoreapp3.1\fesiller.AssemblyInfo.cs
+C:\Users\EldarA\source\repos\fesiller\fesiller\obj\Debug\netcoreapp3.1\fesiller.dll
+C:\Users\EldarA\source\repos\fesiller\fesiller\obj\Debug\netcoreapp3.1\fesiller.pdb
